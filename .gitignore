@@ -1,0 +1,8 @@
+# Output directories
+build/
+
+# Dependency directories
+node_modules/
+
+#cert
+cert/
